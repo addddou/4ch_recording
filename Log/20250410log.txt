@@ -1,0 +1,148 @@
+09:56:43.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:56:43.66    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:56:44.16    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:56:44.66    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:56:45.16    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:56:45.66    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:56:46.16    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:56:46.66    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:56:47.16    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:56:47.66    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:06.07    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:06.57    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:07.07    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:07.57    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:08.07    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:08.61    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:09.07    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:09.57    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:10.07    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:10.57    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:11.07    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:37.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:37.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:38.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:38.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:39.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:39.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:40.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:40.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:41.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:41.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:42.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:42.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:43.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:43.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:44.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:44.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:45.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:45.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:46.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:46.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:47.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:47.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:48.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:48.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:49.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:49.66    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:50.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:50.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:51.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:51.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:52.16    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:52.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:53.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:53.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:54.16    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:54.66    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:55.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:55.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:56.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:56.67    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:57.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:57.66    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:58.17    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+09:58:58.66    F-4824Sound File Write (DBL).vi->main.vi
+F0;
+10:01:00.71    F0F0;
+10:01:01.25    F0F0;
+10:01:01.68    F0F0;
+10:01:02.21    F0F0;
+10:01:02.67    F0F0;
+10:01:03.17    F0F0;
+10:01:03.66    F0F0;
+10:01:04.16    F0F0;
+10:01:04.78    F0F0;
+10:01:05.22    F0F0;
+10:01:05.68    F0F0;
+10:01:06.18    F0F0;
+10:01:06.66    F0F0;
+10:01:07.21    F0F0;
+10:01:07.66    F0F0;
+10:01:08.18    F0F0;
+10:01:09.60    F0F0;
+10:01:09.80    F0F0;

@@ -1,0 +1,32 @@
+10:19:18.84    T42Sound File Write Open.vi->main.vi
+;
+10:32:03.75    T42Sound File Write Open.vi->main.vi
+;
+10:34:03.76    T42Sound File Write Open.vi->main.vi
+;
+10:36:55.53    T42Sound File Write Open.vi->main.vi
+;
+10:38:24.20    F0;
+10:45:19.52    T42Sound File Write Open.vi->main.vi
+;
+10:46:40.53    F0;
+10:47:07.63    F0;
+11:06:55.38    T42Sound File Write Open.vi->main.vi
+;
+11:07:07.14    F0;
+11:07:10.73    F0;
+11:21:10.79    F0;
+11:23:11.24    F0;
+14:46:25.32    F0;
+14:47:09.86    F0;
+14:48:06.10    F0;
+14:48:10.33    F0;
+15:20:10.50    F0;
+15:20:28.79    F0;
+15:21:07.96    F0;
+15:21:21.83    F0;
+15:25:36.51    F0;
+15:26:16.59    F0;
+15:27:03.28    F0;
+15:32:09.15    F0;
+15:55:01.91    F0;

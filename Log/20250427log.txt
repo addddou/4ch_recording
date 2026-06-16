@@ -1,0 +1,2 @@
+11:44:41.57    T4800Sound Input Configure.vi->main.vi
+;
