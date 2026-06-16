@@ -1,0 +1,25 @@
+# Runtime recordings and generated data
+TEST_WAV/
+*.wav
+
+# Logs generated while running the LabVIEW application
+Log/
+
+# LabVIEW build outputs
+builds/
+*.exe
+*.ini
+
+# Local downloaded archives and example packages
+*.zip
+
+# Optional local UI control library copied beside the project
+漂亮的自定义控件/
+
+# Windows and editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.bak
+*.autosave
